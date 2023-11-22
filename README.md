@@ -8,3 +8,5 @@ in this project we seek to solve cartpole-v1 game which presented from OPEN-AI
 in this game we have only 2 ations, right and left and have to balance the stick.
 
 first of all we have to import this environment from Gym, created by OPEN_AI, then we setup a learning model by using keras, an api of Tensorflow. Finally, by using keras-rl we train the model.
+
+# in addition in this repository another code under the name of custom rl.ipynb is put in which I create a custom environment for solving with keras-Rl
